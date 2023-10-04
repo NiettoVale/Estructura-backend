@@ -1,50 +1,6 @@
-<!-- # Express Sequelize Starter
+# Estructura Backend con Express, Sequelize, PostgreSQL y JavaScript
 
-Este repositorio proporciona una estructura básica para iniciar rápidamente un proyecto backend utilizando Express, Sequelize, postgreSQL y JavaScript.
-
-## Estructura del Proyecto
-
-La estructura del proyecto está diseñada para ser organizada y fácil de entender. Las carpetas incluidas son las siguientes:
-
-- **src:** Directorio principal del código fuente.
-
-  - **controllers:** Contiene controladores que manejan la lógica de negocio.
-  - **models:** Almacena definiciones de modelos Sequelize para la base de datos.
-  - **routes:** Contiene las rutas de Express para organizar el enrutamiento.
-  - **dataBase.js:** Configuración de la conexión a la base de datos utilizando Sequelize.
-  - **app.js:** Archivo principal donde se configura y levanta la aplicación Express.
-
-- **index.js:** Punto de entrada principal del servidor.
-
-- **package.json:** Archivo de configuración de npm que lista las dependencias y scripts del proyecto.
-
-- **package-lock.json:** Archivo generado automáticamente que bloquea las versiones exactas de las dependencias instaladas.
-
-- **.gitignore:** Archivo para especificar qué archivos y directorios deben ser ignorados por Git.
-
-## Cómo Usar
-
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/nombre-del-repo.git`
-
-2. Instala las dependencias: `npm install`
-
-3. Configura la base de datos en `dataBase.js` según tus necesidades.
-
-4. Ejecuta la aplicación: `node index.js` o `npm start`
-
-¡Ahora tienes una estructura básica lista para comenzar a construir tu proyecto backend con Express y Sequelize de manera eficiente!
-
-## Contribuciones
-
-Si encuentras errores o tienes sugerencias de mejora, ¡siéntete libre de abrir un problema o enviar un pull request!
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles. -->
-
-# Estructura Backend con Express, Sequelize y JavaScript
-
-Este repositorio proporciona una estructura básica para un proyecto backend utilizando Express, Sequelize y JavaScript. La estructura del proyecto está diseñada para agilizar el proceso de creación, permitiéndote comenzar rápidamente con el desarrollo de tu aplicación.
+Este repositorio proporciona una estructura básica para un proyecto backend utilizando Express, Sequelize, PostgreSQL y JavaScript. La estructura del proyecto está diseñada para agilizar el proceso de creación, permitiéndote comenzar rápidamente con el desarrollo de tu aplicación.
 
 ## Estructura de Carpetas
 
